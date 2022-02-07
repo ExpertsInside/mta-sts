@@ -1,1 +1,1 @@
-# mta-sts
+please delete this repo
